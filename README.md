@@ -4,13 +4,16 @@ A Quasar Framework app used ti create a Single Sign up page for a prooom page.
 
 
 
-![Image](http://localhost:8081/#/)
+![](https://github.com/Zubrah/Single-Page-Quasar-Project/blob/main/src/assets/Screenshoot.png)
 
 
 
 
 
-## 
+
+
+## Author : 
+- [Zuberi Msemo](https://github.com/Zubrah)
 
 ## Install the dependencies
 ```bash
